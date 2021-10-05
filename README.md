@@ -2,7 +2,7 @@
 
 :cyclone: I'm an undergraduate IT student, exploring this programming world and having fun developing some stuff. <br>
 
-- I’m currently studying:  <strong>Java</strong> :coffee: 
+- I’m currently studying:  <strong>C#</strong> :coffee: 
 
 Feel free to contact me:
 
