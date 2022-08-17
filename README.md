@@ -1,6 +1,6 @@
 ### Hey there, I'm Abner 👋
 
-:cyclone: I'm an undergraduate IT student, exploring this programming world and having fun developing some stuff. <br>
+:cyclone: I'm a Junior Software Developer, exploring this programming world and having fun developing some stuff. <br>
 
 - I’m currently studying:  <strong>.NET</strong> 
 
